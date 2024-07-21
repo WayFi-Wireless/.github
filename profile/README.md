@@ -12,13 +12,24 @@ At WayFi Wireless, we are dedicated to revolutionizing cellular coverage by leve
 
 ### Our Technologies
 
+#### Wi-Fi Solutions
+
 - **Hotspot 2.0:** Simplifies the process of connecting to Wi-Fi networks by enabling automatic and secure connections. This ensures a seamless user experience, similar to that of cellular networks.
-- **CBRS:** Utilizes shared spectrum to provide high-quality wireless connectivity, reducing the dependency on traditional cellular networks and offering cost-effective solutions for enterprises.
+- **Passpoint:** Enhances Wi-Fi network security and usability by allowing users to roam between different Wi-Fi networks without the need for manual authentication.
 - **OpenRoaming:** Facilitates seamless and secure Wi-Fi roaming across different networks, ensuring users stay connected without manual intervention.
 - **Captive Portals and Advertising:** Monetize your Wi-Fi networks through the use of captive portals that display advertisements or offer premium access options, turning connectivity into a revenue stream.
 - **Wi-Fi Monetization:** We provide solutions for monetizing new Wi-Fi installations, helping you generate revenue while offering superior connectivity to users.
+
+#### Cellular Solutions
+
+- **CBRS:** Utilizes shared spectrum to provide high-quality wireless connectivity, reducing the dependency on traditional cellular networks and offering cost-effective solutions for enterprises.
 - **Improved Cell Coverage:** Enhance cell phone coverage in your locations with our advanced solutions, ensuring your customers and employees have consistent and reliable access.
-- **Custom Solutions:** We offer tailor-made solutions to meet your specific connectivity needs. Our team of cellular and Wi-Fi experts is ready to consult on your problems and deliver the best possible outcomes.
+- **Private 5G:** Implement private 5G networks for your business, offering secure, high-speed connectivity tailored to your specific needs.
+- **Special Event Coverage:** Provide reliable and robust cellular coverage for special events, ensuring all attendees stay connected.
+
+#### Custom Solutions
+
+We offer tailor-made solutions to meet your specific connectivity needs. Our team of cellular and Wi-Fi experts is ready to consult on your problems and deliver the best possible outcomes.
 
 ### Explore More
 
