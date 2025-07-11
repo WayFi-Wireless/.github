@@ -10,6 +10,8 @@ Revolutionizing Cellular Coverage - WayFi enables seamless and secure cellular c
 [![Coverage Map](https://img.shields.io/badge/Map-WayFi%20Coverage%20Map-blue)](https://wayfiwireless.com/map)
 [![Stats](https://img.shields.io/badge/Stats-Network%20Stats-blue)](https://wayfiwireless.com/stats)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P1OS2vUwEGU?si=BNKne7lUxENyTmhl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## About Us
 
 At WayFi Wireless, we are dedicated to revolutionizing cellular coverage by leveraging advanced technologies such as Hotspot 2.0, Passpoint, and Citizens Broadband Radio Service (CBRS). Our solutions enable seamless and secure connectivity, making it easier for businesses, educational institutions, and retailers to provide reliable cellular access to their customers and employees.
